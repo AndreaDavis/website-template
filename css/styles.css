@@ -1,7 +1,7 @@
 :root {
-    --primary-color: #F05F40;
+    --primary-color: rgb(49, 220, 132);
     --dark-color: #212529;
-    --button-hover-color: #ee4b28;
+    --button-hover-color: #2856ee;
 }
 
 #div1 {
