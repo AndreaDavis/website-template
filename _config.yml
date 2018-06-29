@@ -3,66 +3,48 @@
 name: Digital Humanities Research Institute 
 description: Digital Humanities Research Institute
 url: dhinstitutes.org
-title: Digital Humanities Research Institute 
-host-institution: Faculty Center, Arkansas State University
-host-institution-url: https://www.gc.cuny.edu
-date-range: June 11-20, 2018
-apply-link: 
+title: Digital Humanities Research Institute | Heritage in the Digital Age
+host-institution: The Faculty Center, Arkansas State University
+host-institution-url: http://www.astate.edu/a/ittc/
+date-range: May X-X, 2019
 author:
-  name: GC Digital Initiatives
-  email: info@dhinstitutes.org
-  url: https://gcdi.commons.gc.cuny.edu/
-  twitter: Digital_Fellows
-  github: http://github.com/GCDigitalFellows
-  address: Digital Scholarship Lab, Room 7414<br>The Graduate Center, CUNY<br>365 Fifth Avenue<br />New York, NY 10016<br>
-  description: GC Digital Initiatives builds and sustains an active community around the shared idea of a "Digital GC," where scholars and technologists explore new modes of inquiry that thoughtfully integrate digital tools and methods into the research, teaching, and service missions of the institution. Learn more on our <a href="https://gcdi.commons.gc.cuny.edu/about/">website</a>.
+  name: Dr. Andrea Davis
+  email: andavis@astate.edu
+  url: https://andrea-davis.com
+  twitter: DrDreaDavis
+  address: 
+  description: Focused on the theme “Heritage in the Digital Age,” DHRI builds on college-wide interest and expertise in Heritage Studies to create a community of digital humanities practice at Arkansas State University.
 
 
 
 # A list of courses that appears on the curriculum page
 # Note that link-reference should be one short, descriptive word
 courses:
-  - name: Command Line
-    url: https://github.com/DHRI-Curriculum/command-line
-    link-reference: terminal
-    description: Introduction to the UNIX command line. Topics covered will include navigating the filesystem, manipulating the environment, executing useful commands, and using pipes to communicate between programs. This session will teach you how to communicate directly with your computer’s operating system using a text-based interface and is a useful first step in learning many other technical skills.
-  - name: Git
-    url: https://github.com/DHRI-Curriculum/git
-    link-reference: git
-    description: Git is a tool for managing changes to a set of files. It allows users to access open source repositories, recover earlier versions of a project, and collaborate with other contributors. This session will be beneficial to anyone working with data, code, or text.
-  - name: Python
-    url: https://github.com/DHRI-Curriculum/python
-    link-reference:  python
-    description: Python is a programming language that can be used for a wide range of tasks, including collecting and analyzing data in a variety of formats, building web applications, and much more. It is likely the most popular language for academic researchers because of its flexibility and adaptability.
-  - name: Databases
-    url: https://github.com/DHRI-Curriculum/databases
-    link-reference: databases
-    description: Databases are invaluable tools for organization and are better than a spreadsheet for working with multiple data sets, asking questions, and adding structure to your data. SQL is a programming language for working with databases. This workshop will introduce you to the basics of SQL, and will include hands-on practice creating databases and tables, importing data, and querying the database.
-  - name: Text Analysis
-    url: https://github.com/DHRI-Curriculum/text-analysis
-    link-reference: text
-    description: This session will introduce text analysis and text classification in Python using The Natural Language Toolkit (NLTK) library and scikit-learn. Through attending this session, you will learn how to use Python to analyze large amounts of text (i.e., literary works, social media corpora, etc.) to find word frequencies, collocations, and learn the basics of text classification with machine learning. This session is designed for researchers who work with various forms of text-based data.
-  - name: Mapping
-    url: https://github.com/DHRI-Curriculum/mapping
-    link-reference: mapping
-    description: This session introduces simple yet powerful ways of displaying spatial information through CartoDB and QGIS. This session will be of particular interest both to researchers working with spatial information as well as anyone interested in storytelling with maps.
-  - name: Machine Learning 
-    url: https://github.com/DHRI-Curriculum/machine-learning
-    link-reference: ml
-    description: Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
-  - name: HTML & CSS
-    url: https://github.com/DHRI-Curriculum/html-css
-    link-reference: html
-    description: Modern web pages are created using HTML to control content, CSS to control appearance, and JavaScript to dictate behavior. This session will be helpful for anyone that wants to build on the web.
-  - name: Twitter API
-    url: https://github.com/DHRI-Curriculum/twitter-api
-    link-reference: twitter
-    description: This session will cover the basics of accessing data via the Twitter API. including specific challenges that arise when working with large, text-based data sets. This session will be beneficial for anyone who wants to collect data from Twitter or other social networks.
-  - name: Digital Ethics
+  - name: Digital Preservation
+    link-reference: preservation
+    description: 
+  - name: Crowd Sourcing
+    url: 
+    link-reference: crowd
+    description: 
+  - name: Ethics
     url: https://github.com/DHRI-Curriculum/ethics
-    link-reference: ethics
-    description: A discussion of digital ethics with an emphasis on social justice, transparency, and accessibility.
-
+    link-reference:  ethics
+    description: This discussion-based workshop will address an array of ethical questions and concerns for community-based research and teaching. In addressing issues of confidentiality, inclusion, participation, and accessibility, this workshop will first provide a general overview of ethics for institutional research compliance —including the Belmont Report and Institutional Review Board — and then delve into ethical issues that extend beyond institutional purview.
+  - name: Digital Publishing and Design
+    url: https://github.com/DHRI-Curriculum/html-css
+    link-reference: design
+    description: This session will introduce participants to two digital publishing platforms—Scalar and Omeka— and two mark-up languages— HTML and CSS. Scalar and Omeka are two of the most commonly-used free and open-source publishing platforms for scholarly communication and HTML and CSS are two of the most commonly-used languages in rendering information on the web. In addition to learning the basics and basic differences of each platform and language, participants will apply best practices in digital design by customizing a Scalar or Omeka project using HTML and CSS.  This workshop is geared towards beginners – no prior experience with either language or publishing platform is necessary.
+  - name: Project Planning
+    url: https://github.com/DHRI-Curriculum/project-lab
+    link-reference: project
+    description: What separates projects that turn into something from those that stall out and go nowhere is the formulation (and constant revision and adaptation) of a reasonable, informed, and purposeful project plan. During this session, participants will be introduced to sound project development and management practices. Starting with an end goal in mind, an articulation of the needs and opportunities, collaborators, audience, resources, and work plan, participants will draft a one to three page proposal for their DH projects.
+  - name: Project Lab
+    link-reference: lab
+    description: This session will provide participants with time to work independently or—if desired—in groups to begin designing their own digital heritage projects for research or teaching. Instructors will be on hand to answer questions and provide feedback.
+  - name: Presentations
+    link-reference: presentations
+    description: Each participant will present a five-minute proposal for a digital heritage project.
 # this tells Jekyll to build the site in the "docs"
 # directory, which is ideal for hosting by GitHub Pages
 destination: docs
