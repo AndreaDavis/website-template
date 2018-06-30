@@ -21,8 +21,17 @@ author:
 # Note that link-reference should be one short, descriptive word
 courses:
   - name: Digital Preservation
+     url:
     link-reference: preservation
     description: 
+  - name: Digital Publishing
+     url:
+    link-reference: publishing
+    description:
+  - name: Digital Design
+    url: https://github.com/DHRI-Curriculum/html-css
+    link-reference: design
+    description: This session will introduce attendees to two mark-up languages- HTML and CSS. These are two of the most commonly-used languages in rendering information on the web today. In addition to learning the basics and basic differences of each language, attendees will use a simple text editor and their local computer to begin creating a web site. Beyond learning HTML and CSS, users will leave the workshop with a clearer understanding of how the internet works. This workshop is geared towards beginners – no prior experience with either language or website-building is necessary.
   - name: Crowd Sourcing
     url: 
     link-reference: crowd
@@ -31,10 +40,6 @@ courses:
     url: https://github.com/DHRI-Curriculum/ethics
     link-reference:  ethics
     description: This discussion-based workshop will address an array of ethical questions and concerns for community-based research and teaching. In addressing issues of confidentiality, inclusion, participation, and accessibility, this workshop will first provide a general overview of ethics for institutional research compliance —including the Belmont Report and Institutional Review Board — and then delve into ethical issues that extend beyond institutional purview.
-  - name: Digital Publishing and Design
-    url: https://github.com/DHRI-Curriculum/html-css
-    link-reference: design
-    description: This session will introduce participants to two digital publishing platforms—Scalar and Omeka— and two mark-up languages— HTML and CSS. Scalar and Omeka are two of the most commonly-used free and open-source publishing platforms for scholarly communication and HTML and CSS are two of the most commonly-used languages in rendering information on the web. In addition to learning the basics and basic differences of each platform and language, participants will apply best practices in digital design by customizing a Scalar or Omeka project using HTML and CSS.  This workshop is geared towards beginners – no prior experience with either language or publishing platform is necessary.
   - name: Project Planning
     url: https://github.com/DHRI-Curriculum/project-lab
     link-reference: project
