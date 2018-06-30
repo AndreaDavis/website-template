@@ -21,11 +21,11 @@ author:
 # Note that link-reference should be one short, descriptive word
 courses:
   - name: Digital Preservation
-     url:
+    url:
     link-reference: preservation
     description: 
   - name: Digital Publishing
-     url:
+    url:
     link-reference: publishing
     description:
   - name: Digital Design
