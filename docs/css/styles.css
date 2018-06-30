@@ -1,7 +1,7 @@
 :root {
-    --primary-color: #0b0b0b;
+    --primary-color: #060606;
     --dark-color: #212529;
-    --button-hover-color: #29f2ab;
+    --button-hover-color: #28eec3;
 }
 
 #div1 {
@@ -31,7 +31,7 @@ html {
 }
 
 body {
-  font-family: 'Arial Black', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-family: 'Arial Black', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 hr {
@@ -55,13 +55,13 @@ a:hover {
     color: var(--primary-color);
 }
 
-h1, 
+h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: 'Arial Black', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-family: 'Arial Black', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .bg-primary {
