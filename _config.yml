@@ -20,18 +20,19 @@ author:
 # A list of courses that appears on the curriculum page
 # Note that link-reference should be one short, descriptive word
 courses:
+
+  - name: Digital Publishing
+    url:
+    link-reference: publishing
+    description: This session will introduce participants to two digital publishing platforms— Scalar and Omeka. Scalar and Omeka are two of the most commonly-used free and open-source publishing platforms for scholarly communication. In addition to learning the basics and basic differences of each platform, participants will begin to build a project on one of the platforms.  This workshop is geared towards beginners – no prior experience with either publishing platform is necessary.
+  - name: Digital Design
+    url: https://github.com/DHRI-Curriculum/html-css
+    link-reference: design
+    description: This session will introduce attendees to two mark-up languages- HTML and CSS. These are two of the most commonly-used languages in rendering information on the web today. In addition to learning the basics and basic differences of each language, participants will apply best practices in digital design by customizing a Scalar or Omeka project using HTML and CSS. Beyond learning HTML and CSS, users will leave the workshop with a clearer understanding of how the internet works. This workshop is geared towards beginners – no prior experience with either language or website-building is necessary.
   - name: Digital Preservation
     url:
     link-reference: preservation
     description: 
-  - name: Digital Publishing
-    url:
-    link-reference: publishing
-    description:
-  - name: Digital Design
-    url: https://github.com/DHRI-Curriculum/html-css
-    link-reference: design
-    description: This session will introduce attendees to two mark-up languages- HTML and CSS. These are two of the most commonly-used languages in rendering information on the web today. In addition to learning the basics and basic differences of each language, attendees will use a simple text editor and their local computer to begin creating a web site. Beyond learning HTML and CSS, users will leave the workshop with a clearer understanding of how the internet works. This workshop is geared towards beginners – no prior experience with either language or website-building is necessary.
   - name: Crowd Sourcing
     url: 
     link-reference: crowd
