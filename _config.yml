@@ -24,33 +24,32 @@ courses:
   - name: Digital Publishing
     url:
     link-reference: publishing
-    description: This session will introduce participants to two digital publishing platforms— Scalar and Omeka. Scalar and Omeka are two of the most commonly-used free and open-source publishing platforms for scholarly communication. In addition to learning the basics and basic differences of each platform, participants will begin to build a project on one of the platforms.  This workshop is geared towards beginners – no prior experience with either publishing platform is necessary.
-  - name: Digital Design
-    url: https://github.com/DHRI-Curriculum/html-css
-    link-reference: design
-    description: This session will introduce attendees to two mark-up languages- HTML and CSS. These are two of the most commonly-used languages in rendering information on the web today. In addition to learning the basics and basic differences of each language, participants will apply best practices in digital design by customizing a Scalar or Omeka project using HTML and CSS. Beyond learning HTML and CSS, users will leave the workshop with a clearer understanding of how the internet works. This workshop is geared towards beginners – no prior experience with either language or website-building is necessary.
-  - name: Digital Preservation
+    description: This session will introduce participants to two digital publishing platforms—Scalar and Omeka. Scalar and Omeka are two of the most commonly-used free and open-source publishing platforms for scholarly exhibits and communication. In addition to learning the basics and basic differences of each platform, participants will begin to build a project on one of the platforms.  This workshop is geared towards beginners – no prior experience with either publishing platform is necessary. More advanced participants will have the opportunity to customize their site using the markup languages HTML and CSS. 
+  - name: Digital Heritage Preservation
+    url: 
+    link-reference: preservation
+    description: Digital preservation requires adequate planning, description and modes of access. During this session, participants will be introduced to the principles of sound collection development and learn how to arrange and describe content so that it is legible and discoverable to users. Using the site built during the previous session, participants will begin to create a digital heritage collection.
     url:
     link-reference: preservation
     description: 
-  - name: Crowd Sourcing
+  - name: Participatory Heritage
     url: 
-    link-reference: crowd
-    description: 
-  - name: Ethics
-    url: https://github.com/DHRI-Curriculum/ethics
-    link-reference:  ethics
-    description: This discussion-based workshop will address an array of ethical questions and concerns for community-based research and teaching. In addressing issues of confidentiality, inclusion, participation, and accessibility, this workshop will first provide a general overview of ethics for institutional research compliance —including the Belmont Report and Institutional Review Board — and then delve into ethical issues that extend beyond institutional purview.
+    link-reference: participation
+    description: Digital technologies have created new possibilities for the public to engage with and co-create heritage resources. This workshop will explore different models for engaging the public in heritage work with a particular focus on the participatory archive. In addition to surveying the field, participants will learn how to use digital tools like Scripto and OHMS to engage the public in their work as well how to integrate these tools into their selected publishing platform.
+  - name: Visualizing Heritage
+    url: 
+    link-reference:  visualization
+    description: Data visualization is a technique that researchers and creative practitioners use to analyze and communicate information through graphical means. In this session, participants will discuss the characteristics of effective graphical displays and practice visualizing the spatial and social relations of selected heritage resources.
+  - name: Augmented Heritage
+    url: 
+    link-reference: ar
+    description: This session examines how mobile Augmented Reality (AR) can be employed to increase and diversify public engagement with heritage. Starting with an overview of AR and existing heritage apps, participants will be introduced to some of the basic principles of app development with Swift.   
   - name: Project Planning
-    url: https://github.com/DHRI-Curriculum/project-lab
     link-reference: project
-    description: What separates projects that turn into something from those that stall out and go nowhere is the formulation (and constant revision and adaptation) of a reasonable, informed, and purposeful project plan. During this session, participants will be introduced to sound project development and management practices. Starting with an end goal in mind, an articulation of the needs and opportunities, collaborators, audience, resources, and work plan, participants will draft a one to three page proposal for their DH projects.
-  - name: Project Lab
-    link-reference: lab
-    description: This session will provide participants with time to work independently or—if desired—in groups to begin designing their own digital heritage projects for research or teaching. Instructors will be on hand to answer questions and provide feedback.
-  - name: Presentations
+    description: What separates projects that turn into something from those that stall out and go nowhere is the formulation (and constant revision and adaptation) of a reasonable, informed, and purposeful project plan. During this session, participants will be introduced to sound project development and management practices. They will also have time to work independently or—if desired—in groups to draft a proposal for a digital heritage project for research or teaching.
+  - name: Presentations and Discussion
     link-reference: presentations
-    description: Each participant will present a five-minute proposal for a digital heritage project.
+    description: In the final session, participants will present their project proposals and we will discuss how to build on the experience of the institute to create a sustainable community of digital humanities practice at A-State.
 # this tells Jekyll to build the site in the "docs"
 # directory, which is ideal for hosting by GitHub Pages
 destination: docs
