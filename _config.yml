@@ -18,8 +18,8 @@ author:
 # A list of courses that appears on the curriculum page
 # Note that link-reference should be one short, descriptive word
 courses:
-courses:
   - name: Data for Humanists
+    url: 
     link-reference: data
     description: "Data" can be a difficult term for humanists.  As Miriam Posner explains, "when you call something data, you imply that it exists in discrete, fungible units; that it is computationally tractable; that its meaningful qualities can be enumerated in a finite list; that someone else performing the same operations on the same data will come up with the same results. This is not how humanists think of the material they work with" (2015). Despite discomfort with the term, humanists engage with data on a regular basis as they search for, describe, organize, and analyze born-digital and digitized resources. In this workshop we will discuss different approaches to categorizing and organizing humanities data and participants will gain experience adding Dublin Core metadata to selected sources in order to create basic spatial and temporal visualizations.
   - name: Distant Reading
@@ -39,6 +39,7 @@ courses:
     link-reference: ethics
     description: This session will focus on some of the special ethical issues that arise when working with digital representations. We will begin by discussing and showing examples of problematic 3D representations for heritage contexts. Next, we will present some of our recent work that suggests that how one chooses to visually represent a scenario may affect how a viewer morally judges the scenario. Following this, we will discuss the ethics of preserving 3D models and digital artifacts, and challenges and moral obligations for researchers in capturing metadata within their 3D models, including the obligation to document uncertainty that might exist about aspects of their representations. We will conclude by addressing the unique problem for digital humanists of receiving proper institutional credit for their work.
   - name: Project Planning
+    url:
     link-reference: project
     description: What separates projects that turn into something from those that stall out and go nowhere is the formulation (and constant revision and adaptation) of a reasonable, informed, and purposeful project plan. During this session, participants will be introduced to sound project development and management practices. They will also have time to work independently or—if desired—in groups to draft and present a proposal for a digital humanities project for research or teaching.
 # this tells Jekyll to build the site in the "docs"
