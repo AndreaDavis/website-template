@@ -18,8 +18,8 @@ author:
 # A list of courses that appears on the curriculum page
 # Note that link-reference should be one short, descriptive word
 courses:
+courses:
   - name: Data for Humanists
-    url:
     link-reference: data
     description: "Data" can be a difficult term for humanists.  As Miriam Posner explains, "when you call something data, you imply that it exists in discrete, fungible units; that it is computationally tractable; that its meaningful qualities can be enumerated in a finite list; that someone else performing the same operations on the same data will come up with the same results. This is not how humanists think of the material they work with" (2015). Despite discomfort with the term, humanists engage with data on a regular basis as they search for, describe, organize, and analyze born-digital and digitized resources. In this workshop we will discuss different approaches to categorizing and organizing humanities data and participants will gain experience adding Dublin Core metadata to selected sources in order to create basic spatial and temporal visualizations.
   - name: Distant Reading
