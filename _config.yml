@@ -18,28 +18,27 @@ author:
 # A list of courses that appears on the curriculum page
 # Note that link-reference should be one short, descriptive word
 courses:
-
-  - name: Data for Humanitists
+ - name: Data for Humanitists
     url:
     link-reference: data
     description: "Data" can be a difficult term for humanists.  As Miriam Posner explains, "when you call something data, you imply that it exists in discrete, fungible units; that it is computationally tractable; that its meaningful qualities can be enumerated in a finite list; that someone else performing the same operations on the same data will come up with the same results. This is not how humanists think of the material they work with" (2015). Despite discomfort with the term, humanists engage with data on a regular basis as they search for, describe, organize, and analyze born-digital and digitized resources. In this workshop we will discuss different approaches to categorizing and organizing humanities data and participants will gain experience adding Dublin Core metadata to selected sources in order to create basic spatial and temporal visualizations.
-  - name: Distant Reading
+- name: Distant Reading
     url: 
     link-reference: reading
     description: Since literary scholar Franco Moretti coined the term "distant reading" in his 2005 analysis of novel publishing, many digital humanists have taken up the call to digital and quantitative analyses of text and metadata. Digitally analyzing large quantities of text lets researchers get a sense of the contours of language use at particular times and in particular places. This session will engage participants in developing distant reading research questions, finding and curating datasets, and using some freely available text analysis tools including Voyant Tools and DataBasic.io to approach those questions. We will gloss and discuss some of the distant reading debates among digital humanists, including values and dangers of the trend toward quantification, the risks of denigrating close reading, and the challenges of conducting quantitative analysis without advanced statistical training. To conclude the workshop, participants will select one visualization of their data to present to the group and discuss in some detail.
-  - name: 3D Preservation and Presentation
+- name: 3D Preservation and Presentation
     url: 
     link-reference: 3d
     description: How do we preserve and present three-dimensional objects in an engaging and accurate way?  This session focuses on the utilization of free tools used to capture objects digitally using just your camera (or phone) and computer.  Photogrammetry is a powerful technology which until recently was inaccessible to most users without access to a supercomputer.  Now, with cloud computing, researchers and educators can take a series of photographs to generate an accurate 3D model quickly.  We will learn the basic techniques for well-executed photogrammetry photos, including specific settings, positioning, and lighting conditions.  We will discuss the specifics of single object capturing and environment capturing.  Then, we will cover how to push our content using cloud computing software to generate our 3D models and further refine their accuracy.  We will also learn how to present this content in both a classroom and conference environment.
-  - name: Augmented and Virtual Reality
+- name: Augmented and Virtual Reality
     url: 
     link-reference: ar
     description: New technologies like Augmented and Virtual reality can be fascinating tools for both pedagogy and research, but present unique challenges and seemingly steep learning curves for the novice user.  However, both of these technologies are becoming rapidly more accessible and available for educators and researchers.  In this session, we will learn the essential elements of successful AR and VR applications.  We will discuss how to leverage existing (and free) tools to create engaging content for our classrooms and presentations.  The session will conclude with a small group exercise where we will create our own simple AR/VR app with custom content.
-  - name: Digital Ethics
+- name: Digital Ethics
     url:
     link-reference: ethics
     description: This session will focus on some of the special ethical issues that arise when working with digital representations. We will begin by discussing and showing examples of problematic 3D representations for heritage contexts. Next, we will present some of our recent work that suggests that how one chooses to visually represent a scenario may affect how a viewer morally judges the scenario. Following this, we will discuss the ethics of preserving 3D models and digital artifacts, and challenges and moral obligations for researchers in capturing metadata within their 3D models, including the obligation to document uncertainty that might exist about aspects of their representations. We will conclude by addressing the unique problem for digital humanists of receiving proper institutional credit for their work.
- - name: Project Planning
+- name: Project Planning
     link-reference: project
     description: What separates projects that turn into something from those that stall out and go nowhere is the formulation (and constant revision and adaptation) of a reasonable, informed, and purposeful project plan. During this session, participants will be introduced to sound project development and management practices. They will also have time to work independently or—if desired—in groups to draft and present a proposal for a digital humanities project for research or teaching.
 # this tells Jekyll to build the site in the "docs"
