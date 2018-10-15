@@ -6,50 +6,42 @@ url: dhinstitutes.org
 title: Digital Humanities Research Institute
 host-institution: The Faculty Center, Arkansas State University
 host-institution-url: http://www.astate.edu/a/ittc/
-date-range: May X-X, 2019
+date-range: March 28-31, 2019
 author:
   name: Dr. Andrea Davis
   email: andavis@astate.edu
   url: https://andrea-davis.com
   twitter: DrDreaDavis
   address: 
-  description: Focused on the theme “Heritage in the Digital Age,” DHRI builds on college-wide interest and expertise in Heritage Studies to create a community of digital humanities practice at Arkansas State University.
-
-
+  description: The Digital Humanities Research Institute (DHRI) is a three-day workshop held from 29-31 March 2019, hosted by the A-State Faculty Center. During the workshop, which is supported by the Graduate Center Digital Initiatives at CUNY and the National Endowment for the Humanities, participants will explore digital humanities research and pedagogy, develop computational skills through hands-on workshops, and begin designing their own digital humanities projects for research or teaching.
 
 # A list of courses that appears on the curriculum page
 # Note that link-reference should be one short, descriptive word
 courses:
 
-  - name: Digital Publishing
+  - name: Data for Humanists
     url:
-    link-reference: publishing
-    description: This session will introduce participants to two digital publishing platforms—Scalar and Omeka. Scalar and Omeka are two of the most commonly-used free and open-source publishing platforms for scholarly exhibits and communication. In addition to learning the basics and basic differences of each platform, participants will begin to build a project on one of the platforms.  This workshop is geared towards beginners – no prior experience with either publishing platform is necessary. More advanced participants will have the opportunity to customize their site using the markup languages HTML and CSS. 
-  - name: Digital Heritage Preservation
+    link-reference: data
+    description: "Data" can be a difficult term for humanists.  As Miriam Posner explains, "when you call something data, you imply that it exists in discrete, fungible units; that it is computationally tractable; that its meaningful qualities can be enumerated in a finite list; that someone else performing the same operations on the same data will come up with the same results. This is not how humanists think of the material they work with" (2015). Despite discomfort with the term, humanists engage with data on a regular basis as they search for, describe, organize, and analyze born-digital and digitized resources. In this workshop we will discuss different approaches to categorizing and organizing humanities data and participants will gain experience adding Dublin Core metadata to selected sources in order to create basic spatial and temporal visualizations.
+  - name: Distant Reading
     url: 
-    link-reference: preservation
-    description: Digital preservation requires adequate planning, description and modes of access. During this session, participants will be introduced to the principles of sound collection development and learn how to arrange and describe content so that it is legible and discoverable to users. Using the site built during the previous session, participants will begin to create a digital heritage collection.
-    url:
-    link-reference: preservation
-    description: Digital preservation requires adequate planning, description and modes of access. During this session, participants will be introduced to the principles of sound collection development and learn how to arrange and describe content so that it is legible and discoverable to users. Using the site built during the previous session, participants will begin to create a digital heritage collection.
-  - name: Participatory Heritage
+    link-reference: reading
+    description: Since literary scholar Franco Moretti coined the term "distant reading" in his 2005 analysis of novel publishing, many digital humanists have taken up the call to digital and quantitative analyses of text and metadata. Digitally analyzing large quantities of text lets researchers get a sense of the contours of language use at particular times and in particular places. This session will engage participants in developing distant reading research questions, finding and curating datasets, and using some freely available text analysis tools including Voyant Tools and DataBasic.io to approach those questions. We will gloss and discuss some of the distant reading debates among digital humanists, including values and dangers of the trend toward quantification, the risks of denigrating close reading, and the challenges of conducting quantitative analysis without advanced statistical training. To conclude the workshop, participants will select one visualization of their data to present to the group and discuss in some detail.
+  - name: 3D Preservation and Presentation
     url: 
-    link-reference: participation
-    description: Digital technologies have created new possibilities for the public to engage with and co-create heritage resources. This workshop will explore different models for engaging the public in heritage work with a particular focus on the participatory archive. In addition to surveying the field, participants will learn how to use digital tools like Scripto and OHMS to engage the public in their work as well how to integrate these tools into their selected publishing platform.
-  - name: Visualizing Heritage
-    url: 
-    link-reference:  visualization
-    description: Data visualization is a technique that researchers and creative practitioners use to analyze and communicate information through graphical means. In this session, participants will discuss the characteristics of effective graphical displays and practice visualizing the spatial and social relations of selected heritage resources.
-  - name: Augmented Heritage
+    link-reference: 3d
+    description: How do we preserve and present three-dimensional objects in an engaging and accurate way?  This session focuses on the utilization of free tools used to capture objects digitally using just your camera (or phone) and computer.  Photogrammetry is a powerful technology which until recently was inaccessible to most users without access to a supercomputer.  Now, with cloud computing, researchers and educators can take a series of photographs to generate an accurate 3D model quickly.  We will learn the basic techniques for well-executed photogrammetry photos, including specific settings, positioning, and lighting conditions.  We will discuss the specifics of single object capturing and environment capturing.  Then, we will cover how to push our content using cloud computing software to generate our 3D models and further refine their accuracy.  We will also learn how to present this content in both a classroom and conference environment.
+  - name: Augmented and Virtual Reality
     url: 
     link-reference: ar
-    description: This session examines how mobile Augmented Reality (AR) can be employed to increase and diversify public engagement with heritage. Starting with an overview of AR and existing heritage apps, participants will be introduced to some of the basic principles of app development with Swift.   
-  - name: Project Planning
+    description: New technologies like Augmented and Virtual reality can be fascinating tools for both pedagogy and research, but present unique challenges and seemingly steep learning curves for the novice user.  However, both of these technologies are becoming rapidly more accessible and available for educators and researchers.  In this session, we will learn the essential elements of successful AR and VR applications.  We will discuss how to leverage existing (and free) tools to create engaging content for our classrooms and presentations.  The session will conclude with a small group exercise where we will create our own simple AR/VR app with custom content.
+  - name: Digital Ethics
+    url:
+    link-reference: ethics
+    description: This session will focus on some of the special ethical issues that arise when working with digital representations. We will begin by discussing and showing examples of problematic 3D representations for heritage contexts. Next, we will present some of our recent work that suggests that how one chooses to visually represent a scenario may affect how a viewer morally judges the scenario. Following this, we will discuss the ethics of preserving 3D models and digital artifacts, and challenges and moral obligations for researchers in capturing metadata within their 3D models, including the obligation to document uncertainty that might exist about aspects of their representations. We will conclude by addressing the unique problem for digital humanists of receiving proper institutional credit for their work.
+ - name: Project Planning
     link-reference: project
-    description: What separates projects that turn into something from those that stall out and go nowhere is the formulation (and constant revision and adaptation) of a reasonable, informed, and purposeful project plan. During this session, participants will be introduced to sound project development and management practices. They will also have time to work independently or—if desired—in groups to draft a proposal for a digital heritage project for research or teaching.
-  - name: Presentations and Discussion
-    link-reference: presentations
-    description: In the final session, participants will present their project proposals and we will discuss how to build on the experience of the institute to create a sustainable community of digital humanities practice at A-State.
+    description: What separates projects that turn into something from those that stall out and go nowhere is the formulation (and constant revision and adaptation) of a reasonable, informed, and purposeful project plan. During this session, participants will be introduced to sound project development and management practices. They will also have time to work independently or—if desired—in groups to draft and present a proposal for a digital humanities project for research or teaching.
 # this tells Jekyll to build the site in the "docs"
 # directory, which is ideal for hosting by GitHub Pages
 destination: docs
